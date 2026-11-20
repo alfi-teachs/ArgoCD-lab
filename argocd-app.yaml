@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     # Replace with your public GitHub repo URL
-    repoURL: https://github.com/<you>/<repo>.git
+    repoURL: https://github.com/Jan-stan/ArgoCD-lab.git
     targetRevision: main
     path: k8s
   destination:
